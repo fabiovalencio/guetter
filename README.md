@@ -2,7 +2,7 @@
 
 This repository contains the homework assignment for [Node.js Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class) by [Pirple](https://www.pirple.com/) that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS (ES6 Javascript) with **no NPM or 3rd-party libraries**.
 
-![nodejs](/src/assets/images/screenshots/nodejs-logo.png | width=48)
+![nodejs](https://nodejs.org/static/images/logos/nodejs-new-pantone-white.ai | width=48)
 
 ## Homework Assignments
 
@@ -14,7 +14,6 @@ Here's the spec from your project manager:
 
 **The Node JS Master Class - No Frameworks, No External Libraries, No NPM. 
 
-- [Pirple]()*
 
 # RESTful API, and web app, and a CLI in plain Node.js with no 3rd-party libraries.
 
