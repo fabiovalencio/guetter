@@ -1,6 +1,8 @@
 # Node.js Masterclass Homework Assignment
 
-This repository contains the homework assignment for [Node.js Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class) by [Pirple](https://www.pirple.com/) that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS (ES6 Javascript) with **no NPM or 3rd-party libraries**.
+This repository contains the homework assignment for 
+[Node.js Master Class](https://pirple.thinkific.com/courses/the-nodejs-master-class) by [Pirple](https://www.pirple.com/) 
+that is focused on building a RESTful API, web app GUI, and a CLI in plain Node JS (ES6 Javascript) with **no NPM or 3rd-party libraries**.
 
 <img src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg" width="600">
 
@@ -17,7 +19,7 @@ Here's the spec from your project manager:
 
 # RESTful API, and web app, and a CLI in plain Node.js with no 3rd-party libraries.
 
-The app is usable visite [Guetter.app](https://guetter.app)
+visite [Guetter.app](https://guetter.app) to test it.
 
 1. The API listens on a PORT and accepts incoming HTTP requests for POST, GET, PUT, DELETE and HEAD
 2. The API allows a client to connect then create a new user, then edit and delete that user
